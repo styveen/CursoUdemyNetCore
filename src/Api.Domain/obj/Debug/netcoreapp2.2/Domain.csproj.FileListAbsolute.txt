@@ -1,0 +1,9 @@
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\DStyveen\curso_udemy_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache

@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Service\\Service.csproj": {}
+  },
+  "projects": {
+    "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\DStyveen\\.nuget\\packages\\",
+        "outputPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DStyveen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\DStyveen\\.nuget\\packages\\",
+        "outputPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DStyveen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\DStyveen\\.nuget\\packages\\",
+        "outputPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DStyveen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Data\\Data.csproj"
+              },
+              "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\DStyveen\\curso_udemy_netcore\\src\\Api.Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
