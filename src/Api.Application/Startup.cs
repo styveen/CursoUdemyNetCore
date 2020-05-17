@@ -107,7 +107,10 @@ namespace Application
 
             });
 
-            services.AddMvc(Options => { Options.EnableEndpointRouting = false; });
+            services.AddMvc();
+            services.AddControllers()
+                    .AddNewtonsoftJson();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -130,7 +133,14 @@ namespace Application
             option.AddRedirect("^$", "swagger");
             app.UseRewriter(option);
 
-            app.UseMvc();
+            //app.UseMvc(); //2.0
+            app.UseRouting();
+            app.UseAuthorization();
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
+
         }
     }
 }
