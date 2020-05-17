@@ -15,6 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
+using Microsoft.Extensions.Hosting;
 
 namespace Application
 {
@@ -67,7 +68,7 @@ namespace Application
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    Title = "Curso AspNetCore 2.2",
+                    Title = "Curso AspNetCore 3.0",
                     Version = "v1",
                     Description = "Exemplo de API REST criada com o ASP.NET Core",
                     Contact = new OpenApiContact
@@ -104,17 +105,15 @@ namespace Application
                     }
                 });
 
-                // c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>>{
-                //     {"Bearer", Enumerable.Empty<string>()}
-                // });
             });
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc(Options => { Options.EnableEndpointRouting = false; });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
