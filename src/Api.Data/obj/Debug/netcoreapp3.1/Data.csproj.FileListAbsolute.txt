@@ -1,0 +1,12 @@
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb

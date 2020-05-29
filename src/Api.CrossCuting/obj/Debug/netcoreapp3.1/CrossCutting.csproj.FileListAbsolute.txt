@@ -1,0 +1,16 @@
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\Data.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\Service.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\DStyveen\curso_udemy_netcore\src\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
